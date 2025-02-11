@@ -67,7 +67,17 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 - **Current Streak:** 0 🔥 (Feb 11)  
 - **Longest Streak:** 4 days (Nov 26, 2024 - Nov 29, 2024)  
 
-### 📌 GitHub Radar Chart  
+### 📌 GitHub Activity Radar Chart  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=Dewninim&theme=radical" alt="GitHub Activity Radar Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewninim&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dewninim&theme=radical" alt="GitHub Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dewninim&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewninim&theme=radical" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewninim&theme=radical" alt="GitHub Stats" />
 </p>
