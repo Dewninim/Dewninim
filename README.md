@@ -1,7 +1,7 @@
 # Hi there 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dewninim&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewni-nimnadi-wickramaarachchi-a8b974294/)  
+                                ![Profile Views](https://komarev.com/ghpvc/?username=Dewninim&color=blue)  
+                                [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dewni-nimnadi-wickramaarachchi-a8b974294/)  
 
 ## 👨‍💻 About Me :  
 I'm **Dewni Nimnadi**.  
