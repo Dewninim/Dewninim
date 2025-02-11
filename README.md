@@ -35,10 +35,21 @@ I'm **Dewni Nimnadi**.
 </p>
 
 
+## 📊 GitHub Contribution Overview:
 
-## 📊 GitHub Activity Graph:
+### 🔥 GitHub Streak:
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dewninim&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+### 🚀 Activity Radar Chart:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewninim&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+### 📈 Contribution Graph:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dewninim&theme=radical" alt="GitHub Productive Time" />
 </p>
 
 
