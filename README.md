@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 ## 👨‍💻 About Me :  
 I'm **Dewni Nimnadi**.  
 
@@ -35,6 +34,14 @@ I'm **Dewni Nimnadi**.
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+## 📊 GitHub Contributions:
+- **Total Contributions:** 66 (since Mar 9, 2023)  
+- **Current Streak:** 0 🔥 (Feb 11)  
+- **Longest Streak:** 4 days (Nov 26, 2024 - Nov 29, 2024)  
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ## 🔥 My GitHub Stats :  
 <p align="left">
