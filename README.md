@@ -10,7 +10,7 @@ I'm **Dewni Nimnadi**.
 - 👯 I’m looking to collaborate on **React & Next.js web projects, Flutter mobile apps, and IoT projects with Arduino & AWS IoT**.  
 - 📫 How to reach me → **wdewni@gmail.com**  
 
-## 🛠️ Languages and Tools :  
+## 🛠️ Languages and Tools :
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino" />
@@ -27,7 +27,8 @@ I'm **Dewni Nimnadi**.
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android" />
-</p>  
+</p>
+
 
 ## 🔥 My GitHub Stats :  
 <p align="left">
