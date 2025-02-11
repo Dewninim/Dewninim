@@ -12,9 +12,7 @@
 
 ## 🚀 My GitHub Activity Overview:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/image.png" alt="GitHub Activity Radar" width="400" />
-</p>
+![GitHub Activity Radar](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/image.png)
 
 ---
 
