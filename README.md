@@ -34,6 +34,11 @@ I'm **Dewni Nimnadi**.
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+
+## 📊 GitHub Activity Graph:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dewninim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 📊 GitHub Contributions:
 - **Total Contributions:** 66 (since Mar 9, 2023)  
 - **Current Streak:** 0 🔥 (Feb 11)  
