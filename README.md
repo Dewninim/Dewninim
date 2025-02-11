@@ -35,9 +35,7 @@ I'm **Dewni Nimnadi**.
 </p>
 
 ## 🔥 GitHub Streak:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
-</p>
+
 
 ## 📊 GitHub Activity Overview:
 <p align="left">
