@@ -35,23 +35,17 @@ I'm **Dewni Nimnadi**.
 </p>
 
 
-## 📊 GitHub Contribution Overview:
-
-### 🔥 GitHub Streak:
+## 📊 GitHub Activity Radar:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-### 🚀 Activity Radar Chart:
-<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewninim&theme=radical" alt="GitHub Language Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dewninim&theme=radical" alt="Most Used Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewninim&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
-### 📈 Contribution Graph:
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dewninim&theme=radical" alt="GitHub Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Dewninim&theme=radical" alt="GitHub Achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/line-chart?username=Dewninim&theme=radical" alt="GitHub Line Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewninim&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=Dewninim&theme=radical" alt="GitHub Activity Radar Chart" />
 </p>
-
 
 
 ## 📊 GitHub Contributions:
