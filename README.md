@@ -40,7 +40,6 @@ I'm **Dewni Nimnadi**.
 ## 📊 GitHub Activity Overview:
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewninim&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=Dewninim&theme=radical" alt="GitHub Activity Radar Chart" />
 </p>
 
 ## 📊 GitHub Contributions:
@@ -54,6 +53,5 @@ I'm **Dewni Nimnadi**.
 
 ## 🔥 My GitHub Stats :  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dewninim&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewninim&layout=compact&theme=radical" alt="Top Languages" />
 </p>
