@@ -8,12 +8,24 @@
   </a>
 </p>
 
+---
+
+## 🚀 My GitHub Activity Overview:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/image.png" alt="GitHub Activity Radar" width="400" />
+</p>
+
+---
+
 ## 👨‍💻 About Me :  
 I'm **Dewni Nimnadi**.  
 
 - 🌱 I’m currently learning **DevOps (AWS, Docker, Kubernetes, CI/CD), Flutter & Firebase, and Next.js for Full-Stack Development**.  
 - 👯 I’m looking to collaborate on **React & Next.js web projects, Flutter mobile apps, and IoT projects with Arduino & AWS IoT**.  
 - 📫 How to reach me → **wdewni@gmail.com**  
+
+---
 
 ## 🛠️ Languages and Tools :
 <p align="left">
@@ -34,24 +46,23 @@ I'm **Dewni Nimnadi**.
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+---
+
 ## 🔥 GitHub Streak:
-
-
-## 📊 GitHub Activity Overview:
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewninim&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
+---
 
 ## 📊 GitHub Contributions:
 - **Total Contributions:** 66 (since Mar 9, 2023)  
 - **Current Streak:** 0 🔥 (Feb 11)  
 - **Longest Streak:** 4 days (Nov 26, 2024 - Nov 29, 2024)  
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dewninim&theme=radical" alt="GitHub Streak Stats" />
-</p>
+---
 
-## 🔥 My GitHub Stats :  
-<p align="left">
+## 📈 GitHub Stats :  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dewninim&layout=compact&theme=radical" alt="Top Languages" />
 </p>
