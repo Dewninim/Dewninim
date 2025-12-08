@@ -63,8 +63,9 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ### 🧠 Large Language Models (LLMs)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48" title="OpenAI API"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="48" title="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" height="48"/>
+
 </p>
 
 ---
@@ -92,7 +93,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
 </p>
 
