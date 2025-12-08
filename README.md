@@ -83,11 +83,12 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ### ☁️ Cloud (AWS)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonec2.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awslambda.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonec2.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazons3.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/awslambda.svg" height="48"/>
 </p>
+
 
 ---
 
