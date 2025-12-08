@@ -53,7 +53,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ---
 
-### 🧠 AI Concepts & LLMs
+### 🧠 AI Concepts
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
@@ -93,7 +93,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48"/>
 </p>
 
 ---
