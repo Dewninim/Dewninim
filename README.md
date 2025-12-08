@@ -65,7 +65,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg?color=ffffff" height="48" title="Hugging Face"/>
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 </p>
 
 ---
