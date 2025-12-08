@@ -62,10 +62,10 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ---
 
 ### 🧠 Large Language Models (LLMs)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" height="48"/>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg?color=ffffff" height="48" title="Hugging Face"/>
 </p>
 
 ---
@@ -83,11 +83,12 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ### ☁️ Cloud (AWS)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonec2.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazons3.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/awslambda.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg?color=ffffff" height="48" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonec2.svg?color=ffffff" height="48" title="EC2"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazons3.svg?color=ffffff" height="48" title="S3"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/awslambda.svg?color=ffffff" height="48" title="Lambda"/>
 </p>
+
 
 
 ---
