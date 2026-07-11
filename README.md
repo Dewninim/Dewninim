@@ -15,6 +15,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 - 🌱 Currently learning **DevOps (AWS, Docker, Kubernetes, CI/CD), Flutter & Firebase, and Next.js for Full-Stack Development**.  
 - 👯 Open to collaborating on **React & Next.js web projects, Flutter mobile apps, and IoT projects with Arduino & AWS IoT**.  
+- 🤖 Working daily with **Claude AI** for full-stack development, debugging, and building AI-powered features (including RAG pipelines).  
 - 📫 Reach me at → **wdewni@gmail.com**  
 
 ---
@@ -49,6 +50,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="48" title="Claude / Anthropic"/>
 </p>
 
 ---
@@ -59,12 +61,16 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
 </p>
 
+- **RAG (Retrieval-Augmented Generation)** — building context-aware AI features backed by real project data
+- **AI-assisted development** — using **Claude** as a coding/debugging partner across full-stack projects (React, Electron, Flutter, Python)
+
 ---
 
 ### 🧠 Large Language Models (LLMs)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="48" title="Claude / Anthropic"/>
   <img src="./assets/huggingface-white.png" height="48" title="Hugging Face"/>
 
 </p>
@@ -78,6 +84,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" height="48" title="Swagger / OpenAPI"/>
 </p>
 
 ---
@@ -105,8 +112,10 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ### 🧑‍💻 Development Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" title="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="44"/>
