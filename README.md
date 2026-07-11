@@ -48,7 +48,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
 </p>
 
 ---
@@ -57,6 +57,8 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28" title="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6E56CF?style=flat" height="28" title="Retrieval-Augmented Generation"/>
 </p>
 
 ---
@@ -65,8 +67,8 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
-  <img src="./assets/huggingface-white.png" height="48" title="Hugging Face"/>
-
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" title="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="28" title="Claude (Anthropic)"/>
 </p>
 
 ---
@@ -75,7 +77,7 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ### ⚙️ DevOps & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
 </p>
@@ -110,12 +112,24 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="44"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" title="IntelliJ IDEA"/>
 </p>
 
+---
+
+### 📑 API & Documentation Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" title="Swagger"/>
+</p>
 
 ---
 
 ## 📊 GitHub Activity  
+### 🗓️ Contribution Calendar  
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44f/Dewninim" alt="Dewninim's GitHub Contribution Calendar" />
+</p>
+
 ### 🔥 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dewninim&theme=react-dark" alt="GitHub Activity Graph" />
@@ -153,3 +167,11 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewninim&theme=radical" alt="Repositories Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewninim&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
+## Contact
+
+Reachable at [wdewni@gmail.com](mailto:wdewni@gmail.com) or via [LinkedIn](YOUR_LINKEDIN_URL) for opportunities and collaboration.
+
+<p align="center"><sub>© Dewni Nimnadi</sub></p>
