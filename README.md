@@ -125,9 +125,13 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ---
 
 ## 📊 GitHub Activity  
-### 🗓️ Contribution Calendar  
+### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/Dewninim" alt="Dewninim's GitHub Contribution Calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dewninim/Dewninim/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dewninim/Dewninim/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Dewninim/Dewninim/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ### 🔥 Contribution Graph  
@@ -172,6 +176,6 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 
 ## Contact
 
-Reachable at [wdewni@gmail.com](mailto:wdewni@gmail.com) or via [LinkedIn](YOUR_LINKEDIN_URL) for opportunities and collaboration.
+Reachable at [wdewni@gmail.com](mailto:wdewni@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/dewni-wickramaarachchi-a8b974294/) for opportunities and collaboration.
 
 <p align="center"><sub>© Dewni Nimnadi</sub></p>
