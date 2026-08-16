@@ -70,10 +70,10 @@ I'm **Dewni Nimnadi**, a passionate developer exploring various tech stacks.
 ### 🧠 Large Language Models (LLMs)
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg?color=ffffff" height="48" title="OpenAI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlegemini.svg" height="48" title="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="28" title="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" height="28" title="Claude (Anthropic)"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
 ---
